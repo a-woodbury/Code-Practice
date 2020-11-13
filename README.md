@@ -6,6 +6,7 @@ To complement data science acumen (acquired @ Flatiron School, DC), I aim to bui
 Roadmap
 
 Resources
+
 [www.freecodecamp.org](freecodecamp)
 
 
