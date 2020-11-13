@@ -1,13 +1,11 @@
 # Goal
 
-To complement data science acumen (acquired @ Flatiron School, DC), I aim to build and showcase skills in front-end and back-end development. 
+R + Python-stack Data Science + full-stack development
 
 
 ## Roadmap
 
 ## Resources
-
-[www.freecodecamp.org](freecodecamp)
 
 
 
