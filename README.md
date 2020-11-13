@@ -1,9 +1,12 @@
-# Code Routines
+# Goal
 
-Daily coding practice repo
+To complement data science acumen (acquired @ Flatiron School, DC), I aim to build and showcase skills in front-end and back-end development. 
 
-- Python
-- R
-- SQL
+
+Roadmap
+
+Resources
+(freecodecamp)[www.freecodecamp.org]
+
 
 
